@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 3802089}
   - component: {fileID: 3802090}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (12)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 37387943}
   - component: {fileID: 37387944}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (15)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -291,7 +291,7 @@ GameObject:
   - component: {fileID: 77741817}
   - component: {fileID: 77741818}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (3)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 93694579}
   - component: {fileID: 93694580}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (56)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -451,7 +451,7 @@ GameObject:
   - component: {fileID: 105094947}
   - component: {fileID: 105094948}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (39)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -531,7 +531,7 @@ GameObject:
   - component: {fileID: 133553160}
   - component: {fileID: 133553161}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (2)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -611,7 +611,7 @@ GameObject:
   - component: {fileID: 137464130}
   - component: {fileID: 137464131}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (43)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -691,7 +691,7 @@ GameObject:
   - component: {fileID: 138430298}
   - component: {fileID: 138430299}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (26)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -771,7 +771,7 @@ GameObject:
   - component: {fileID: 150559925}
   - component: {fileID: 150559926}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (36)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -851,7 +851,7 @@ GameObject:
   - component: {fileID: 169472975}
   - component: {fileID: 169472976}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (20)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -931,7 +931,7 @@ GameObject:
   - component: {fileID: 226402995}
   - component: {fileID: 226402996}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (50)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1011,7 +1011,7 @@ GameObject:
   - component: {fileID: 242816186}
   - component: {fileID: 242816187}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (30)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1171,7 +1171,7 @@ GameObject:
   - component: {fileID: 299313211}
   - component: {fileID: 299313212}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (13)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1251,7 +1251,7 @@ GameObject:
   - component: {fileID: 321426285}
   - component: {fileID: 321426286}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (22)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1331,7 +1331,7 @@ GameObject:
   - component: {fileID: 334875783}
   - component: {fileID: 334875784}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (42)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1411,7 +1411,7 @@ GameObject:
   - component: {fileID: 426475702}
   - component: {fileID: 426475703}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (19)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1491,7 +1491,7 @@ GameObject:
   - component: {fileID: 490193493}
   - component: {fileID: 490193494}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (16)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1571,7 +1571,7 @@ GameObject:
   - component: {fileID: 505443720}
   - component: {fileID: 505443721}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (23)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1651,7 +1651,7 @@ GameObject:
   - component: {fileID: 551724305}
   - component: {fileID: 551724306}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (55)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1898,7 +1898,7 @@ GameObject:
   - component: {fileID: 630571902}
   - component: {fileID: 630571903}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (46)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1978,7 +1978,7 @@ GameObject:
   - component: {fileID: 634311218}
   - component: {fileID: 634311219}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (11)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2058,7 +2058,7 @@ GameObject:
   - component: {fileID: 652420944}
   - component: {fileID: 652420945}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (28)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2138,7 +2138,7 @@ GameObject:
   - component: {fileID: 653569657}
   - component: {fileID: 653569658}
   m_Layer: 0
-  m_Name: Text Sprite
+  m_Name: Msg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2218,7 +2218,7 @@ GameObject:
   - component: {fileID: 716093769}
   - component: {fileID: 716093770}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (6)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2298,7 +2298,7 @@ GameObject:
   - component: {fileID: 734162862}
   - component: {fileID: 734162863}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (49)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2421,7 +2421,7 @@ GameObject:
   - component: {fileID: 806408850}
   - component: {fileID: 806408851}
   m_Layer: 0
-  m_Name: Phone Sprite
+  m_Name: Phone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2435,7 +2435,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 806408849}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2, y: -13, z: 6.3352056}
+  m_LocalPosition: {x: -2, y: -13, z: 6.91}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1385462567}
@@ -2501,7 +2501,7 @@ GameObject:
   - component: {fileID: 834074702}
   - component: {fileID: 834074703}
   m_Layer: 0
-  m_Name: Cold Heart Sprite
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2581,7 +2581,7 @@ GameObject:
   - component: {fileID: 836370894}
   - component: {fileID: 836370895}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (57)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2661,7 +2661,7 @@ GameObject:
   - component: {fileID: 837185454}
   - component: {fileID: 837185455}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (54)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2741,7 +2741,7 @@ GameObject:
   - component: {fileID: 866960851}
   - component: {fileID: 866960852}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (40)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2821,7 +2821,7 @@ GameObject:
   - component: {fileID: 891769377}
   - component: {fileID: 891769378}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (59)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2901,7 +2901,7 @@ GameObject:
   - component: {fileID: 945171334}
   - component: {fileID: 945171335}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (51)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2981,7 +2981,7 @@ GameObject:
   - component: {fileID: 956900335}
   - component: {fileID: 956900336}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (35)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3159,7 +3159,7 @@ GameObject:
   - component: {fileID: 1054293413}
   - component: {fileID: 1054293414}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (48)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3239,7 +3239,7 @@ GameObject:
   - component: {fileID: 1124221068}
   - component: {fileID: 1124221069}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (5)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3319,7 +3319,7 @@ GameObject:
   - component: {fileID: 1156470970}
   - component: {fileID: 1156470971}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (38)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3399,7 +3399,7 @@ GameObject:
   - component: {fileID: 1210779366}
   - component: {fileID: 1210779367}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (17)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3479,7 +3479,7 @@ GameObject:
   - component: {fileID: 1215291284}
   - component: {fileID: 1215291285}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (41)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3559,7 +3559,7 @@ GameObject:
   - component: {fileID: 1219707468}
   - component: {fileID: 1219707469}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (27)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3639,7 +3639,7 @@ GameObject:
   - component: {fileID: 1245139980}
   - component: {fileID: 1245139981}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (31)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3719,7 +3719,7 @@ GameObject:
   - component: {fileID: 1364107370}
   - component: {fileID: 1364107371}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (24)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3831,7 +3831,7 @@ GameObject:
   - component: {fileID: 1408624133}
   - component: {fileID: 1408624134}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (53)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3911,7 +3911,7 @@ GameObject:
   - component: {fileID: 1425760126}
   - component: {fileID: 1425760127}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (37)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3991,7 +3991,7 @@ GameObject:
   - component: {fileID: 1446120709}
   - component: {fileID: 1446120710}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (52)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4071,7 +4071,7 @@ GameObject:
   - component: {fileID: 1520754975}
   - component: {fileID: 1520754976}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (25)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4194,7 +4194,7 @@ GameObject:
   - component: {fileID: 1561388368}
   - component: {fileID: 1561388369}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (4)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4274,7 +4274,7 @@ GameObject:
   - component: {fileID: 1576731245}
   - component: {fileID: 1576731246}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (9)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4354,7 +4354,7 @@ GameObject:
   - component: {fileID: 1589135924}
   - component: {fileID: 1589135925}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (47)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4434,7 +4434,7 @@ GameObject:
   - component: {fileID: 1613687924}
   - component: {fileID: 1613687925}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (14)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4513,7 +4513,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1655224892}
   m_Layer: 0
-  m_Name: Top hearts
+  m_Name: TopHearts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4574,7 +4574,7 @@ GameObject:
   - component: {fileID: 1666794963}
   - component: {fileID: 1666794964}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (33)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4654,7 +4654,7 @@ GameObject:
   - component: {fileID: 1668802953}
   - component: {fileID: 1668802954}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (44)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4734,7 +4734,7 @@ GameObject:
   - component: {fileID: 1669524868}
   - component: {fileID: 1669524869}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (21)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4814,7 +4814,7 @@ GameObject:
   - component: {fileID: 1670198896}
   - component: {fileID: 1670198897}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (10)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4974,7 +4974,7 @@ GameObject:
   - component: {fileID: 1789113346}
   - component: {fileID: 1789113347}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (29)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5054,7 +5054,7 @@ GameObject:
   - component: {fileID: 1814290528}
   - component: {fileID: 1814290529}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (18)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5134,7 +5134,7 @@ GameObject:
   - component: {fileID: 1860848094}
   - component: {fileID: 1860848095}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (1)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5213,7 +5213,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1933637569}
   m_Layer: 0
-  m_Name: Bottom hearts
+  m_Name: BotHearts
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5274,7 +5274,7 @@ GameObject:
   - component: {fileID: 1978239649}
   - component: {fileID: 1978239650}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (34)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5354,7 +5354,7 @@ GameObject:
   - component: {fileID: 2030716154}
   - component: {fileID: 2030716155}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (8)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5434,7 +5434,7 @@ GameObject:
   - component: {fileID: 2035542497}
   - component: {fileID: 2035542498}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (32)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5514,7 +5514,7 @@ GameObject:
   - component: {fileID: 2077402215}
   - component: {fileID: 2077402216}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (45)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5594,7 +5594,7 @@ GameObject:
   - component: {fileID: 2099475523}
   - component: {fileID: 2099475524}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (7)
+  m_Name: Coldone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5674,7 +5674,7 @@ GameObject:
   - component: {fileID: 2138026522}
   - component: {fileID: 2138026523}
   m_Layer: 0
-  m_Name: Cold Heart Sprite (58)
+  m_Name: Sadone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
