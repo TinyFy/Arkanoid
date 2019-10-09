@@ -130,6 +130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3802089}
   - component: {fileID: 3802090}
+  - component: {fileID: 3802091}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -200,6 +201,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &3802091
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3802088}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &37387942
 GameObject:
   m_ObjectHideFlags: 0
@@ -210,6 +237,7 @@ GameObject:
   m_Component:
   - component: {fileID: 37387943}
   - component: {fileID: 37387944}
+  - component: {fileID: 37387945}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -280,6 +308,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &37387945
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37387942}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &77741816
 GameObject:
   m_ObjectHideFlags: 0
@@ -290,6 +344,7 @@ GameObject:
   m_Component:
   - component: {fileID: 77741817}
   - component: {fileID: 77741818}
+  - component: {fileID: 77741819}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -360,6 +415,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &77741819
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77741816}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &93694578
 GameObject:
   m_ObjectHideFlags: 0
@@ -530,6 +611,7 @@ GameObject:
   m_Component:
   - component: {fileID: 133553160}
   - component: {fileID: 133553161}
+  - component: {fileID: 133553162}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -600,6 +682,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &133553162
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 133553159}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &137464129
 GameObject:
   m_ObjectHideFlags: 0
@@ -690,6 +798,7 @@ GameObject:
   m_Component:
   - component: {fileID: 138430298}
   - component: {fileID: 138430299}
+  - component: {fileID: 138430300}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -760,6 +869,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &138430300
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 138430297}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &150559924
 GameObject:
   m_ObjectHideFlags: 0
@@ -850,6 +985,7 @@ GameObject:
   m_Component:
   - component: {fileID: 169472975}
   - component: {fileID: 169472976}
+  - component: {fileID: 169472977}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -920,6 +1056,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &169472977
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169472974}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &226402994
 GameObject:
   m_ObjectHideFlags: 0
@@ -1170,6 +1332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 299313211}
   - component: {fileID: 299313212}
+  - component: {fileID: 299313213}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -1240,6 +1403,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &299313213
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 299313210}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &321426284
 GameObject:
   m_ObjectHideFlags: 0
@@ -1250,6 +1439,7 @@ GameObject:
   m_Component:
   - component: {fileID: 321426285}
   - component: {fileID: 321426286}
+  - component: {fileID: 321426287}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -1320,6 +1510,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &321426287
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 321426284}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &334875782
 GameObject:
   m_ObjectHideFlags: 0
@@ -1410,6 +1626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 426475702}
   - component: {fileID: 426475703}
+  - component: {fileID: 426475704}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -1480,6 +1697,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &426475704
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426475701}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &490193492
 GameObject:
   m_ObjectHideFlags: 0
@@ -1490,6 +1733,7 @@ GameObject:
   m_Component:
   - component: {fileID: 490193493}
   - component: {fileID: 490193494}
+  - component: {fileID: 490193495}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -1560,6 +1804,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &490193495
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 490193492}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &505443719
 GameObject:
   m_ObjectHideFlags: 0
@@ -1570,6 +1840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 505443720}
   - component: {fileID: 505443721}
+  - component: {fileID: 505443722}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -1640,6 +1911,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &505443722
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 505443719}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &551724304
 GameObject:
   m_ObjectHideFlags: 0
@@ -1977,6 +2274,7 @@ GameObject:
   m_Component:
   - component: {fileID: 634311218}
   - component: {fileID: 634311219}
+  - component: {fileID: 634311220}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -2047,6 +2345,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &634311220
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 634311217}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &652420943
 GameObject:
   m_ObjectHideFlags: 0
@@ -2057,6 +2381,7 @@ GameObject:
   m_Component:
   - component: {fileID: 652420944}
   - component: {fileID: 652420945}
+  - component: {fileID: 652420946}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -2127,6 +2452,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &652420946
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652420943}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &653569656
 GameObject:
   m_ObjectHideFlags: 0
@@ -2137,6 +2488,9 @@ GameObject:
   m_Component:
   - component: {fileID: 653569657}
   - component: {fileID: 653569658}
+  - component: {fileID: 653569659}
+  - component: {fileID: 653569661}
+  - component: {fileID: 653569660}
   m_Layer: 0
   m_Name: Msg
   m_TagString: Untagged
@@ -2207,6 +2561,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &653569659
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 653569656}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!68 &653569660
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 653569656}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 8da707ac2cefc9c4ba5f885e8ea002d7, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.31386662, y: 0.81248856}
+  - {x: -0.5414386, y: 0.73460007}
+  - {x: -0.63814545, y: 0.5550308}
+  - {x: -0.7229295, y: 0.55063534}
+  - {x: -0.72154427, y: 0.46812153}
+  - {x: -0.79914, y: 0.46458817}
+  - {x: -0.80568695, y: 0.2981472}
+  - {x: -0.9104428, y: 0.30460453}
+  - {x: -0.9017062, y: 0.11735535}
+  - {x: -0.883029, y: -0.2863083}
+  - {x: 0.71681786, y: -0.2894106}
+  - {x: 0.72581196, y: -0.2083683}
+  - {x: 0.8112879, y: -0.21190262}
+  - {x: 0.8104639, y: -0.026792526}
+  - {x: 0.89802647, y: -0.028862953}
+  - {x: 0.8925247, y: 0.46492767}
+  - {x: 0.63528347, y: 0.7317896}
+  - {x: 0.37349606, y: 0.8155689}
+  - {x: -0.3016963, y: 0.8146515}
+--- !u!68 &653569661
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 653569656}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 8da707ac2cefc9c4ba5f885e8ea002d7, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.88683844, y: -0.79938126}
+  - {x: 0.21951771, y: -0.806304}
+  - {x: 0.90928364, y: -0.80323315}
 --- !u!1 &716093768
 GameObject:
   m_ObjectHideFlags: 0
@@ -2217,6 +2646,7 @@ GameObject:
   m_Component:
   - component: {fileID: 716093769}
   - component: {fileID: 716093770}
+  - component: {fileID: 716093771}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -2287,6 +2717,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &716093771
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 716093768}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &734162861
 GameObject:
   m_ObjectHideFlags: 0
@@ -2420,6 +2876,8 @@ GameObject:
   m_Component:
   - component: {fileID: 806408850}
   - component: {fileID: 806408851}
+  - component: {fileID: 806408852}
+  - component: {fileID: 806408853}
   m_Layer: 0
   m_Name: Phone
   m_TagString: Untagged
@@ -2490,6 +2948,53 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &806408852
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 806408849}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!61 &806408853
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 806408849}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.05176902, y: 0.3371961}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 9.6, y: 5.4}
+    newSize: {x: 19.2, y: 10.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 3.8757977, y: 0.5720601}
+  m_EdgeRadius: 0
 --- !u!1 &834074701
 GameObject:
   m_ObjectHideFlags: 0
@@ -2500,6 +3005,7 @@ GameObject:
   m_Component:
   - component: {fileID: 834074702}
   - component: {fileID: 834074703}
+  - component: {fileID: 834074704}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -2570,6 +3076,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &834074704
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834074701}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &836370893
 GameObject:
   m_ObjectHideFlags: 0
@@ -3139,7 +3671,8 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
-  m_Children: []
+  m_Children:
+  - {fileID: 1743293166}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3238,6 +3771,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1124221068}
   - component: {fileID: 1124221069}
+  - component: {fileID: 1124221070}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -3308,6 +3842,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1124221070
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1124221067}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1156470969
 GameObject:
   m_ObjectHideFlags: 0
@@ -3398,6 +3958,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1210779366}
   - component: {fileID: 1210779367}
+  - component: {fileID: 1210779368}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -3468,6 +4029,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1210779368
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1210779365}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1215291283
 GameObject:
   m_ObjectHideFlags: 0
@@ -3558,6 +4145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1219707468}
   - component: {fileID: 1219707469}
+  - component: {fileID: 1219707470}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -3628,6 +4216,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1219707470
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1219707467}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1245139979
 GameObject:
   m_ObjectHideFlags: 0
@@ -3718,6 +4332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1364107370}
   - component: {fileID: 1364107371}
+  - component: {fileID: 1364107372}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -3788,6 +4403,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1364107372
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1364107369}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1385462566
 GameObject:
   m_ObjectHideFlags: 0
@@ -3818,7 +4459,7 @@ Transform:
   - {fileID: 806408850}
   - {fileID: 653569657}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1408624132
 GameObject:
@@ -4070,6 +4711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1520754975}
   - component: {fileID: 1520754976}
+  - component: {fileID: 1520754977}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -4140,6 +4782,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1520754977
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1520754974}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1547060265
 GameObject:
   m_ObjectHideFlags: 0
@@ -4193,6 +4861,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1561388368}
   - component: {fileID: 1561388369}
+  - component: {fileID: 1561388370}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -4263,6 +4932,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1561388370
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561388367}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1576731244
 GameObject:
   m_ObjectHideFlags: 0
@@ -4273,6 +4968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1576731245}
   - component: {fileID: 1576731246}
+  - component: {fileID: 1576731247}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -4343,6 +5039,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1576731247
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576731244}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1589135923
 GameObject:
   m_ObjectHideFlags: 0
@@ -4433,6 +5155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1613687924}
   - component: {fileID: 1613687925}
+  - component: {fileID: 1613687926}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -4503,6 +5226,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1613687926
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613687923}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1655224891
 GameObject:
   m_ObjectHideFlags: 0
@@ -4561,7 +5310,7 @@ Transform:
   - {fileID: 652420944}
   - {fileID: 1789113346}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1666794962
 GameObject:
@@ -4733,6 +5482,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1669524868}
   - component: {fileID: 1669524869}
+  - component: {fileID: 1669524870}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -4803,6 +5553,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1669524870
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1669524867}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1670198895
 GameObject:
   m_ObjectHideFlags: 0
@@ -4813,6 +5589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1670198896}
   - component: {fileID: 1670198897}
+  - component: {fileID: 1670198898}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -4883,6 +5660,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1670198898
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1670198895}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1743293164
 GameObject:
   m_ObjectHideFlags: 0
@@ -4956,12 +5759,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1743293164}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 4.47}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -720, y: -539.74396, z: 9.156187}
+  m_LocalScale: {x: 2.0483642, y: 2.0483642, z: 2.0483642}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 968879833}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1789113345
 GameObject:
@@ -4973,6 +5776,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1789113346}
   - component: {fileID: 1789113347}
+  - component: {fileID: 1789113348}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -5043,6 +5847,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1789113348
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789113345}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1814290527
 GameObject:
   m_ObjectHideFlags: 0
@@ -5053,6 +5883,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1814290528}
   - component: {fileID: 1814290529}
+  - component: {fileID: 1814290530}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -5123,6 +5954,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1814290530
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1814290527}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1860848093
 GameObject:
   m_ObjectHideFlags: 0
@@ -5133,6 +5990,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1860848094}
   - component: {fileID: 1860848095}
+  - component: {fileID: 1860848096}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -5203,6 +6061,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1860848096
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860848093}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &1933637568
 GameObject:
   m_ObjectHideFlags: 0
@@ -5261,7 +6145,7 @@ Transform:
   - {fileID: 1245139980}
   - {fileID: 242816186}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1978239648
 GameObject:
@@ -5353,6 +6237,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2030716154}
   - component: {fileID: 2030716155}
+  - component: {fileID: 2030716156}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -5423,6 +6308,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &2030716156
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030716153}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &2035542496
 GameObject:
   m_ObjectHideFlags: 0
@@ -5593,6 +6504,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2099475523}
   - component: {fileID: 2099475524}
+  - component: {fileID: 2099475525}
   m_Layer: 0
   m_Name: Coldone
   m_TagString: Untagged
@@ -5663,6 +6575,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &2099475525
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2099475522}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.8515625, y: 0.7578125}
+    newSize: {x: 1.2457143, y: 1.1085714}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.8515625, y: 0.7578125}
+  m_EdgeRadius: 0
 --- !u!1 &2138026521
 GameObject:
   m_ObjectHideFlags: 0
